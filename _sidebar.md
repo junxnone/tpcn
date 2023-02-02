@@ -1,2 +1,1 @@
-- Sidebar
-  - [Home](/)
+- [Home](/)
